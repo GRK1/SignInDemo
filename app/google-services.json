@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "998314233760",
+    "project_id": "signindemo-448c5"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998314233760:android:7e4ec1ddaf5dbfb8",
+        "android_client_info": {
+          "package_name": "com.moviesinfo.www.signindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998314233760-qliijp77qa2greks38psban6leb81aq9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "998314233760-ubu3os4idrf1fbl25cn3l7c08m2be3nu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moviesinfo.www.signindemo",
+            "certificate_hash": "4670b44834afd215bd3a6167770ba2ee579cb330"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzyE81djG9dYbP7efAdc9_uYMQrpLkOe4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
